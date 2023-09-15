@@ -65,6 +65,7 @@ h1 {
 
 .app .description {
   margin-top: 1rem;
+  transform: rotate(269deg);
 }
 
 .app .bottom {
